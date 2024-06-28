@@ -7,7 +7,7 @@ For example, change this:
 For this:  
 `background='/usr/share/backgrounds/ubuntu-mate-photos/gabriele-diwald-201135.jpg'`  
   
-Save and type:  
+Save, exit and type:  
 `sudo glib-compile-schemas /usr/share/glib-2.0/schemas/`
 
 **Note:** The file you want to use for that function must be inside '/usr/share/backgrounds/', so you need to move it if it is in another path.
